@@ -82,10 +82,10 @@ if __name__ == '__main__':
     # Parameters
     file = 'CDMX.csv'
     
-    ck = '2vzL441apWY52TIssk8sUYHV1'
-    api_s = 'B1WuZ0P1NhUGXFBQz9OD2fPg81gx1e5BwqvtM2l1zmGNL5Kzdx'
-    at = '2826552819-FgFsXdyUQAsBkIkwKU7p6b65HK94zUSJHo3YIkD'
-    at_s = '3mDdWs4M6DtQdRsLsE1dYRYYYPpTcARaCq1GvX8oIoa9G'
+    ck = '***'
+    api_s = '***'
+    at = '***'
+    at_s = '***'
     
     filter_list = ['cdmx']
     store = True
