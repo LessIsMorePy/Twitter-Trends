@@ -80,18 +80,18 @@ class RunScripts:
 if __name__ == '__main__':
     
     # Parameters
-    file = 'CDMX.csv'
+    file = 'candidatos.csv'
     
     ck = '***'
     api_s = '***'
     at = '***'
     at_s = '***'
     
-    filter_list = ['cdmx']
+    filter_list = ['AMLO', 'Anaya', 'Marichuy', 'Meade', 'Bronco', 'Candidatos 2018 mexico']
     store = True
     
     column_research = 'text'
-    find_words = ['MetroCDMX', 'escort', 'L12', 'asalto', 'inseguridad']
+    find_words = ['AMLO', 'Anaya', 'Marichuy', 'Meade', 'Bronco']
     real_time = True
     
     task = 'run_all'
